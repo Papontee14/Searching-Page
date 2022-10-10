@@ -1,0 +1,21 @@
+.gender {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.country {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box {
+  padding: 20px;
+  margin: 10px;
+  background-color: #f4f4f4;
+  cursor: pointer;
+  border: none;
+}
+div div div .box:hover {
+  color: white;
+  background-color: black;
+}
